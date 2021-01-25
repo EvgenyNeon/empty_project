@@ -1,4 +1,7 @@
 {
   "dl": "https://crates.io/api/v1/crates",
-  "api": "https://crates.io"
+  "api": "https://crates.io",
+  "allowed-registries": [
+    "https://github.com/rust-lang/crates.io-index"
+  ]
 }
